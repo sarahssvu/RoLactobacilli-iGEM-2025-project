@@ -20,22 +20,22 @@ To stop the progression of [Alzheimer’s disease](), we aim to prevent the abno
 
 </aside>
 
-- [Overview](https://www.notion.so/Wiki-and-Documentation-Alzheimer-s-Disease-1cb17863c69680149c8de99be4342f22?pvs=4) 💡
-- Our Team 👥
+- [Overview 💡](#overview)
+- [Our Team 👥](#our-team)
 - [Meeting Files](https://github.com/sarahssvu/RoLactobacilli-iGEM-2025-project/tree/main/meeting-agenda) 📆
-- Our Website 💻
-- Human Practices 🥼
-- Setup and Run ⚙️
-- Contact 📞
+- [Our Website](https://rolactobacilli.com/?fbclid=PAZXh0bgNhZW0CMTEAAacbIGrI-s7tTmDKmw0y4cbh6jis8qpFo1KP_aE5qKr1Ae_JqonhPH6QlHRADA_aem_fTeT6aOgCmranksse59RqA) 💻
+- [Human Practices](https://rolactobacilli.com/?fbclid=PAZXh0bgNhZW0CMTEAAacbIGrI-s7tTmDKmw0y4cbh6jis8qpFo1KP_aE5qKr1Ae_JqonhPH6QlHRADA_aem_fTeT6aOgCmranksse59RqA) 🥼
+- [Setup and Run ⚙️](#setup-and-run)
+- [Contact](team@rolactobacilli.com) 📞
 - [Instagram](https://www.instagram.com/rolactobacilli/)
 --------------------------
-## Overview: PROJECT IDEA
+## Overview
 Alzheimer’s disease is a devastating neurodegenerative disorder that affects millions worldwide, including members of our communities. As life expectancy increases, so does the prevalence of Alzheimer’s, placing an immense emotional and financial burden on families and healthcare systems. In our region, we have witnessed firsthand the struggles of individuals and caregivers dealing with this condition—watching loved ones gradually lose their memories, independence, and ability to recognise those around them. 
 
 We aim to achieve a new solution which offers only temporary symptom relief rather than a long-term solution, taking it step by step. Beyond the scientific impact, this project is deeply personal to us and our community. Many of us have seen relatives or community members struggle with Alzheimer’s, and we believe that addressing this problem is not just a scientific challenge but also a moral responsibility. Through synthetic biology, we aspire to create a future where Alzheimer’s is no longer an inevitable fate, but a condition that can be managed or even reversed.
 
 --------------------------
-## Our Team 👥
+## Our Team
 </aside>
 We are a large team of 19 students at Verita International School
 
@@ -63,5 +63,6 @@ We are a large team of 19 students at Verita International School
  </aside>
  
 *Media & Design* - **Shalini Patnaik**
- 
- 
+
+## Setup and Run
+
