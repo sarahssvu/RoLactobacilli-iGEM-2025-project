@@ -22,7 +22,7 @@ To stop the progression of [Alzheimer’s disease](), we aim to prevent the abno
 
 - [Overview](https://www.notion.so/Wiki-and-Documentation-Alzheimer-s-Disease-1cb17863c69680149c8de99be4342f22?pvs=4) 💡
 - Our Team 👥
-- Meeting Files 📆
+- [Meeting Files](https://github.com/sarahssvu/RoLactobacilli-iGEM-2025-project/tree/main/meeting-agenda) 📆
 - Our Website 💻
 - Human Practices 🥼
 - Setup and Run ⚙️
