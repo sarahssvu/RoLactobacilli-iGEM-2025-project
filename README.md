@@ -13,6 +13,8 @@ Welcome to the official GitHub repository for the **RoLactobacilli iGEM 2025 pro
 💡
 
 To stop the progression of Alzheimer’s disease, we aim to prevent the abnormal buildup of proteins in and around brain cells. We plan to deliver a naturally occurring enzyme that breaks down amyloid plaques and neurofibrillary tangles directly into the human brain, specifically targeting the hippocampus, to prevent these damaging accumulations at their source. These neurofibrillary tangles block the neuron’s transport system, harming the synaptic communication between neurons. 
+</aside>
+https://www.notion.so/Wiki-and-Documentation-Alzheimer-s-Disease-1cb17863c69680149c8de99be4342f22?pvs=4
 
 </aside>
 
