@@ -1,8 +1,3 @@
----
-
-### `wetlab/README.md`
-
-```md
 # 🔬 Wet Lab Protocols & Results
 
 This folder contains experimental protocols, design files, and collected data from our iGEM 2025 lab work.
